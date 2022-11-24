@@ -1,0 +1,64 @@
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\bin\Debug\TestCRUD.exe.config
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\bin\Debug\TestCRUD.exe
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\bin\Debug\TestCRUD.pdb
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csprojAssemblyReference.cache
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.Form1.resources
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.Properties.Resources.resources
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csproj.GenerateResource.cache
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csproj.CoreCompileInputs.cache
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.exe
+C:\Users\10PC17LAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.pdb
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csprojAssemblyReference.cache
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.Form1.resources
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.Properties.Resources.resources
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csproj.GenerateResource.cache
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csproj.CoreCompileInputs.cache
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.exe
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\obj\Debug\TestCRUD.pdb
+F:\TestCRUD\TestCRUD\obj\Debug\TestCRUD.Form1.resources
+F:\TestCRUD\TestCRUD\obj\Debug\TestCRUD.Properties.Resources.resources
+F:\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csproj.GenerateResource.cache
+F:\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csproj.CoreCompileInputs.cache
+F:\TestCRUD\TestCRUD\obj\Debug\TestCRUD.exe
+F:\TestCRUD\TestCRUD\obj\Debug\TestCRUD.pdb
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\bin\Debug\TestCRUD.exe.config
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\bin\Debug\TestCRUD.exe
+C:\Users\10PCDOCENTELAB2\source\repos\TestCRUD\TestCRUD\bin\Debug\TestCRUD.pdb
+F:\TestCRUD\TestCRUD\bin\Debug\TestCRUD.exe.config
+F:\TestCRUD\TestCRUD\bin\Debug\TestCRUD.exe
+F:\TestCRUD\TestCRUD\bin\Debug\TestCRUD.pdb
+F:\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csproj.AssemblyReference.cache
+F:\TestCRUD\TestCRUD\obj\Debug\TestCRUD.csproj.SuggestedBindingRedirects.cache
+F:\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.exe.config
+F:\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.exe
+F:\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.pdb
+F:\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.AssemblyReference.cache
+F:\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.SuggestedBindingRedirects.cache
+F:\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.Form1.resources
+F:\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.Properties.Resources.resources
+F:\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.GenerateResource.cache
+F:\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.CoreCompileInputs.cache
+F:\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.exe
+F:\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.pdb
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.exe.config
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.exe
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.pdb
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.AssemblyReference.cache
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.SuggestedBindingRedirects.cache
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.Form1.resources
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.Properties.Resources.resources
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.GenerateResource.cache
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.CoreCompileInputs.cache
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.exe
+E:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.pdb
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.exe.config
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.exe
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\bin\Debug\TestCRUD.pdb
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.AssemblyReference.cache
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.SuggestedBindingRedirects.cache
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.Form1.resources
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.Properties.Resources.resources
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.GenerateResource.cache
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.csproj.CoreCompileInputs.cache
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.exe
+F:\INATEC\Desarrollo de Sistemas Informaticos\TestCRUD_Reparado\TestCRUD\obj\Debug\TestCRUD.pdb
